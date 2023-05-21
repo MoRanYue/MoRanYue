@@ -72,5 +72,6 @@ world.startWorld()
 
 * 原神、崩坏：星穹铁道
 * 关于后室、SCP的游戏
+* 盖瑞模组
 * <span style="text-decoration:line-through">发消息带上不明意义的括号、（吹牛X）</span>
 * 分享关于游戏的知识
