@@ -19,6 +19,7 @@ class World {
     const world = new SimpleWorld()
     world.name = universe
     world.atomComputation = true
+    world.timeUnit = 'p'
     world.init(port)
     world.randomSpawn(this.elements, {
       randomPos: true,
@@ -73,5 +74,5 @@ world.startWorld()
 * 原神、崩坏：星穹铁道
 * 关于后室、SCP的游戏
 * 盖瑞模组
-* <span style="text-decoration:line-through">发消息带上不明意义的括号、（吹牛X）</span>
+* <span style="text-decoration:line-through">发消息带上不明意义的括号</span>
 * 分享关于游戏的知识
