@@ -47,7 +47,7 @@ world.startWorld()
 # 我的联络方式
 
 * 电子邮箱：[2627706726@qq.com](mailto:2627706726@qq.com)、[sllhsdog@gmail.com](mailto:sllhsdog@gmail.com)
-* 比利比利：[@属官一号](https://space.bilibili.com/50500335)
+* 哔哩哔哩：[@属官一号](https://space.bilibili.com/50500335)
 * Steam：[墨染月𝑴𝑹𝒀](https://steamcommunity.com/id/MoRanYue/)
 
 # 关于我擅长的编程语言
@@ -67,7 +67,7 @@ world.startWorld()
 * 有学习深度学习的梦想却被微积分打败。
 * 想要提升在比利比利投稿的视频质量却懒（）。
 * 正在学习安卓逆向。
-* -<span style="text-decoration:line-through;" title="不行，这个划掉！">非常喜欢纳西妲！！！！！！</span>-
+* ~~<span style="text-decoration:line-through;" title="不行，这个划掉！">非常喜欢纳西妲！！！！！！</span>~~
 
 # 兴趣爱好
 
