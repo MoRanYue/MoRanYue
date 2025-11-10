@@ -40,13 +40,13 @@ world.startWorld()
 * 我喜欢康B站上的游戏与编程视频
 * 原**P**layer
 
-（可恶，不会写自我介绍）
+~~（可恶，不会写自我介绍）~~
 
 # 我的联络方式
 
-* 电子邮箱：[mry@caughtwind.top](mailto:mry@caughtwind.top)、[sllhsdog@gmail.com](mailto:sllhsdog@gmail.com)
+* 电子邮箱：<moranyue@echonet.icu>、<sllhsdog@gmail.com>
 * 哔哩哔哩：[@属官一号](https://space.bilibili.com/50500335)
-* Steam：[墨染月𝑴𝑹𝒀](https://steamcommunity.com/id/MoRanYue/)
+* Steam：[墨染月𝑴𝑹𝒀](https://steamcommunity.com/id/MoRanYue)
 
 # 关于我擅长的编程语言
 
@@ -55,7 +55,7 @@ world.startWorld()
 * `Rust`
 * `JavaScript`、`TypeScript`
 * `Python`
-* `Lua`、`Squirrel` - 主要是《盖瑞模组》或《求生之路2》插件开发
+* `Lua`、`Squirrel` - 主要为《盖瑞模组》或《求生之路2》插件开发
 
 # 以及……
 * 想要学习人工智能深度学习的知识。
@@ -64,7 +64,8 @@ world.startWorld()
 
 # 兴趣爱好
 
-* 原神
+* 原神（）
 * 关于后室、SCP的游戏
 * ~~发消息带上不明意义的括号~~
 * 撰写代理相关的教程文章。
+
